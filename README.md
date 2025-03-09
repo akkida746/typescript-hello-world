@@ -4,6 +4,8 @@ TypeScript is an open-source programming language developed by Microsoft. It is 
 ## Install typescipt:
 npm install -g typescript
 
+npm install aws-sdk @types/aws-lambda
+
 ## Compile typescript application:
 tsc helloworld.ts
 

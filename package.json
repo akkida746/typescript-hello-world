@@ -1,15 +1,6 @@
 {
-  "name": "hello-ts",
-  "version": "1.0.0",
-  "description": "",
-  "main": "out/helloworld.js",
-  "scripts": {
-    "tsc": "tsc"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "typescript": "^4.9.5"
+  "dependencies": {
+      "aws-sdk": ">= 2.0.9",
+      "node-uuid": ">= 1.4.1"
   }
 }
