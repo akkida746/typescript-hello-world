@@ -9,4 +9,7 @@ npm install -g typescript
 2. Compile typescript application:
 tsc helloworld.ts
 
+3. Run application:
+node helloworld.js
+
 
