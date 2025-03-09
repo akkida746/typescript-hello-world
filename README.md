@@ -1,23 +1,12 @@
-# Hello TypeScript
+# What is TypeScript?
+TypeScript is an open-source programming language developed by Microsoft. It is a typed superset of JavaScript that compiles to plain JavaScript. TypeScript adds optional static typing, classes, and interfaces, making it ideal for large-scale applications and improving developer productivity.
 
-Simple hello world project for running TypeScript with Node.js
+# Setup project:
 
-## Running the Project
+1. Install typescipt:
+npm install -g typescript
 
-1. Install Node.js LTS ([https://nodejs.org](https://nodejs.org))
-1. Open a command window at the root of this project
-1. Run `npm install`
+2. Compile typescript application:
+tsc helloworld.ts
 
-
-## Running the Project
-
-1. Run `tsc` to build the javascript to the `out` folder
-1. Run `node out/helloworld.js`
-
-## Debugging the Project
-
-1. Open the project in VS Code
-1. Open the `helloworld.ts` file
-1. Set a breakpoint on one of the lines of code
-1. Press `F5`
 
