@@ -6,13 +6,13 @@ TypeScript is an open-source programming language developed by Microsoft. It is 
 ## Install typescipt:
 npm install -g typescript
 
-2. Compile typescript application:
+## Compile typescript application:
 tsc helloworld.ts
 
-3. Run application:
+## Run application:
 node helloworld.js
 
-4. Zip application code to deploy on AWS lambda:
+## Zip application code to deploy on AWS lambda:
 zip -r hello-world.zip .
 
 
