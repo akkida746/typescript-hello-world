@@ -3,7 +3,7 @@ TypeScript is an open-source programming language developed by Microsoft. It is 
 
 # Setup project:
 
-1. Install typescipt:
+## Install typescipt:
 npm install -g typescript
 
 2. Compile typescript application:
