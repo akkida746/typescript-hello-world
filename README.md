@@ -8,6 +8,6 @@ npm install aws-sdk @types/aws-lambda
 node helloworld.js
 
 ## Zip application code to deploy on AWS lambda:
-zip -r hello-world.zip .
+zip -r function.zip .
 
 
