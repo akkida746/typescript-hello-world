@@ -12,4 +12,7 @@ tsc helloworld.ts
 3. Run application:
 node helloworld.js
 
+4. Zip application code to deploy on AWS lambda:
+zip -r hello-world.zip .
+
 
